@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: Moleys/xpv
+  repo: Black/black
   branch: master 
 
 media_folder: "assets/uploads" # Folder where user uploaded files should go
