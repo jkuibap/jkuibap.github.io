@@ -1,7 +1,7 @@
 # Site
 name: "jkuibap"
 title: "jkuibap"
-description: "jkuibap github blog!"
+description: "jkuibap Blog - Blog Của Nguyễn Anh Dũng!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
@@ -23,8 +23,8 @@ authors:
     twitter: https://twitter.com/jkuibap
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   john:
-    name: John
-    display_name: John    
+    name: Nguyễn Anh Dũng
+    display_name: Nguyễn Anh Dũng    
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: jkuibap@yahoo.com
