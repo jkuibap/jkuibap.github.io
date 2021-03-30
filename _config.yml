@@ -1,7 +1,7 @@
 # Site
 name: "jkuibap"
 title: "jkuibap"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+description: "jkuibap github blog!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
@@ -15,8 +15,8 @@ email: jkuibap@yahoo.com
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: jkuibap
+    display_name: jkuibap
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: jkuibap@yahoo.com
     web: https://www.facebook.com/jkuibap
