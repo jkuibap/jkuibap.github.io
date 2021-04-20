@@ -47,7 +47,7 @@ $(document).scroll(function () {
 });
 ```
 
-#### Python
+#### Python này
 
 ```python
 print("Hello World")
